@@ -1,6 +1,6 @@
 - name: First Demo Pull
   hosts: localhost
-  tarks:
+  tasks:
     - name: print hello world
       debug:
         msg: "Hello world"
